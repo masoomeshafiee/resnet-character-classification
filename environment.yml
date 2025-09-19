@@ -1,0 +1,19 @@
+name: resnet-character-classification
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.8  # for GPU, optional
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - tqdm
+  - pillow
+  - pip
+  - pip:
+      - tqdm
