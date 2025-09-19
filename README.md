@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-PyTorch-orange.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 This project explores **deep learning for image classification** using **ResNet architectures**.  
 I classify grayscale images combining **Japanese numerals** and **EMNIST characters** (letters + digits).  
