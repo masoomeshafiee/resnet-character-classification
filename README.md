@@ -72,7 +72,7 @@ jupyter notebook ResNet_classification.ipynb
 
 
 ####  Notes on Running in Colab
-When running `esNet_classification.ipynb ` in Google Colab, please consider:
+When running `ResNet_classification.ipynb ` in Google Colab, please consider:
 
 1. **Path setup (Cell 4)**  
    Update the following paths before running:
